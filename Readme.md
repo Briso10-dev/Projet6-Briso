@@ -1,6 +1,4 @@
-# Projet 7 : Realising a Web gage
+# Projet  : Realising a Landing page
 
 ## Objectives
-The goal here is to use the languaages HTML CSS and javascript to design a website 
-
-# Markdown
+To help company in advertising her product
