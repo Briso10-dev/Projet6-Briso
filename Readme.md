@@ -1,4 +1,4 @@
 # Projet  : Realising a Landing page
 
 ## Objectives
-To help company in advertising her product
+A landing page helping a Business Company advertsing on her different Services
